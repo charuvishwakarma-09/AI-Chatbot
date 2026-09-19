@@ -37,9 +37,7 @@ ai-chatbot/
 ## How to Run
 
 1. Clone the repository:
-   ```bash
-   git clone https://github.com/YOUR-USERNAME/YOUR-REPO.git
-   ```
+  https://github.com/charuvishwakarma-09/AI-Chatbot
 2. Get a free API key from [Google AI Studio](https://aistudio.google.com/).
 3. Open `script.js` and replace `GIVE API` with your key:
    ```javascript
